@@ -2,4 +2,4 @@
 CREATE USER IF NOT EXISTS 'user_0d_1'@'localhost'
 IDENTIFIED BY 'user_0d_1_pwd';
 -- user_0d_1 has all privileges.
-GRANT ALL PRIVILEGES ON *.* TO user_0d_1_pwd@localhost;
+GRANT ALL PRIVILEGES ON *.* TO user_0d_1@localhost;
