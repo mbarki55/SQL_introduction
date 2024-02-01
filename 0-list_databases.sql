@@ -1,1 +1,4 @@
-select 'hello world';
+SHOW DATABASES;
+
+
+
